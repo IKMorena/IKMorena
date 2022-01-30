@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IKMorena, A Software Engineer specialized in Oracle DB(SQL and PL/SQL), Python, C++, PHP,
 Ionic Framework, VueJs Framework, JavaScript, HTML & CSS, MySQL, Linux Administration to name a few...
-Job titles trained for entail: Software Testing, Software/Business Analysis and Modelling,
+Job titles trained for entail: Cybersecurity (Network Security Expect(NSE)), Cloud Practitioner, Software Testing, Software/Business Analysis and Modelling,
 Web Software Development/Software Engineering.
 Journeys? Varsity(Tshwane University of Technology), Self Taught, IBM, and Coursera.
 - 👀 I’m interested in Mind games (Chess, Scrabble), Music Production, Coding.
