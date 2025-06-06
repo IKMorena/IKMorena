@@ -1,62 +1,98 @@
-- 👋 Hi, I’m @IKMorena, A 24 Year old Software Engineer that studied Information Technology and majored in Software Development, Database Development and Administration, lastly Information Systems.
-Proficient in the following Programming Languages: Microsoft Data Analytics and Power BI, Python, C++, Flutter, JavaScript, Oracle (SQL/PL-SQL), Oracle DBA, Fortinet Network Security Expert.  
+# 👋 Hey there, I'm Ignesius Kwena Morena — @IKMorena
 
-Technical Skills:
-1. Database Design and Implementation skill using Oracle Database for SQL and PL/SQL.
-2. Programming skills (C++ both front end and back end) using Visual Studio and C++ Builder(Embarcadero Technologies).
-3. Operating System Installations, Support and Administration (Linux, DOS, Microsoft Windows 98/2000/NT).
-4. System Analysis and Design.
-5. Project Management.
-6. Program Development Life Cycle(PDLC), Software Development Life Cycle(SDLC), Database Life Cycle(DBLC).
+🎯 **Full Stack Engineer | Laravel • React Native • DevOps • Cybersecurity Aware | Tech-Driven Problem Solver**
 
-Non-Technical Skills:
-1. Research Skills.
-2. Planning and Designing Skills.
-3. Data Analytics, Reporting and Business Intelligence.
-4. Problem Solving Skills.
-5. Project Management Skills.
-6. IT Management Skills.
-7. Communication Skills.
-8. Networking Introduction (NSE, Cisco, Linux).
+---
 
-Personal Attributes:
-1. Open Minded/Growth Mindset.
-2. Problem Solver.
-3. Can work in Teams.
+## 🧠 Who Am I?
 
-Possible Companies for Employment:
-1. IT Firms.
-2. Financial Companies.
-3. Any Company with an IT Department.
-4. Work For Yourself (Freelancer/Own Company).
+I'm a **26-year-old Software Engineer** based in Pretoria, South Africa 🇿🇦 with a passion for **building smart, scalable, and impactful software**. With a strong academic foundation in **Information Technology**, I’ve specialized in **Software Development**, **Database Architecture**, and **Information Systems**.
 
-Job Titles:
-1. Programmer.
-2. Software Developer.
-3. Tester.
-4. System Analyst.
-5. Project Manager.
-6. Database Administrator.
-7. Cyber Security Analyst (Network Security Expert(NSE 1, 2, 3), Cisco)
-8. Data Analyst (Data Analytics and Power BI)
+Currently building systems at **Clear Access**, I craft full-stack solutions that solve real-world challenges—from blazing-fast APIs to intuitive mobile experiences.
 
-Can Typically Work With:
-1. Programmers.
-2. Business Analysts.
-3. System Analysts.
-4. Project Managers.
-5. IT Managers.
-6. Support Technicians.
-7. Database Administrators.
-8. Data Analyst & Power BI Specialist.
+> 💡 My superpower? Combining clean code with strategic thinking to drive real business results.
 
-Journeys? Varsity(Tshwane University of Technology), Self Taught, IBM, and Coursera.
-- 👀 I’m interested in Mind games (Chess, Scrabble), Music Production, Coding.
-- 🌱 I’m currently learning No Code Tools like Bubble.io and Adalo.
-- 💞️ I’m looking to collaborate..
-- 📫 How to reach me @kwenaimorena@gmail.com.
+---
 
-<!---
-IKMorena/IKMorena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🧰 Tech Stack & Tools
+
+| Area | Technologies |
+|------|--------------|
+| 💻 Languages | PHP • JavaScript • Python • C++ |
+| 🧩 Frameworks | Laravel • Vue.js • React.js • React Native |
+| 🗄 Databases | MySQL • Oracle PL/SQL • PostgreSQL |
+| 🛠 DevOps | Docker • CI/CD • Linux Admin |
+| 🔐 Security | Fortinet NSE 1-3 • Huawei Sec • AWS Cloud |
+| 📊 Data & BI | Power BI • SQL for Analytics |
+| 🌐 No-Code Tools | Bubble.io • Adalo • WordPress |
+| 🧪 Testing | PHPUnit • Manual/Automated Testing |
+| 📈 Agile | Scrum • Jira • Trello |
+
+---
+
+## 🔥 What Sets Me Apart?
+
+- 🧭 **End-to-End Product Builder**: From ideation to deployment, I see the whole picture.
+- ⚙️ **Systematic Yet Agile**: A master of SDLC with hands-on Agile experience.
+- 🧠 **Always Learning**: Whether it's a Fortinet cert or a new JS framework—I'm hungry to grow.
+- 🤝 **Team Player with Leadership Grit**: I mentor, lead sprints, and love working cross-functionally.
+
+---
+
+## 📚 Education Highlights
+
+🎓 **Postgrad in IT Management** – MANCOSA (2025)  
+🎓 **Advanced Diplomas** – Computer Science & Business Analysis  
+🎓 **National Diploma in IT** – Tshwane University of Technology  
+📜 Certified in:  
+- SQL for Data Science – UC Davis  
+- Power BI – Simplilearn  
+- AWS Academy Cloud Foundations  
+- Agile Development – University of Minnesota  
+- Cybersecurity – IBM & Fortinet
+
+---
+
+## 👨‍💻 Work Experience
+
+- 🔧 **Full Stack Engineer** @ *Clear Access* (2024–Present)
+- 🛠 **Junior Full Stack Dev** @ *Clear Access* (2023–2024)
+- 🧪 **Junior Developer** @ *Consumatech*
+- 🔐 **Cybersecurity & Cloud Trainee** @ *THINKTANK / Deviare*
+
+> 🧬 Built mobile apps with React Native, secure APIs with Laravel, and implemented CI/CD pipelines—all while mentoring junior devs and pushing innovation.
+
+---
+
+## 👀 What I’m Into (Besides Code)
+
+- 🎶 **Music Production & DJing**
+- ♟ **Mind Games** – Chess & Scrabble
+- 📊 **Data Visualization** – Turning numbers into insights
+- 🌐 **Exploring No-Code Tech** – Bubble, Adalo, and beyond
+
+---
+
+## 🚀 Open To Opportunities
+
+I'm currently open to **remote, hybrid, or on-site roles** in:
+- 🌍 Software Development
+- 🔐 Cybersecurity & DevSecOps
+- 📊 Data & Business Intelligence
+- 🧪 System Analysis & Product Development
+
+> **Let’s build something powerful together.**
+
+---
+
+## 📫 Let’s Connect
+
+- 📧 Email: [kwenaimorena@gmail.com](mailto:kwenaimorena@gmail.com)  
+- 💼 LinkedIn: [@ignesiuskwena-morena](https://www.linkedin.com/in/ignesiuskwena-morena-02ab34166)  
+- 🧑‍💻 Portfolio: _Coming Soon_  
+- 🤝 Available for Freelance, Collaboration, and Full-Time Roles
+
+---
+
+> _“Code with purpose, deploy with confidence, and always learn forward.”_
+
